@@ -16,10 +16,6 @@ export default function Services() {
             </span>
           </div>
           
-          <h2 className="text-2xl sm:text-4xl lg:text-[40px] font-black font-['Montserrat',sans-serif] tracking-tight text-neutral-900 leading-tight">
-            Guincho, reboque e auto socorro
-          </h2>
-          
           <p className="mt-3 text-base sm:text-lg text-neutral-600 leading-relaxed font-normal">
             Atendimento 24 horas em Angelim e região de São Luís - MA para carros, motos e veículos em geral.
           </p>
